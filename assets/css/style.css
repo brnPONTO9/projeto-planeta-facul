@@ -64,10 +64,14 @@ main {
                     border: none;
                     font-weight: 700;
                 }
+
+                button:last-child{
+                background-color: transparent;
+                border: solid 2px #4ABBC2;
             }
         }
 
-
     }
 }
+
 
